@@ -3,16 +3,17 @@
 2. An example and explicit comment of translation from English to Chinese.
 3. Model structure:
 
-![](model.png)
+![](img/model.png)
 
 4. encoder:
 
-   ![](encoder.png)
+   ![](img/encoder.png)
 
 5. decoder:
 
-   ![](decoder.png)
+   ![](img/decoder.png)
 
 6. result:
 
-   ![](en2chResult.png)
+   ![](img/en2chResult.png)
+
